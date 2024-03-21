@@ -44,6 +44,7 @@
 }
 .gift-menu{
   width:95.15px;
+  text-wrap:nowrap;
 }
 
 .right{
